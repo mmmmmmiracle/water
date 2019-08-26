@@ -1,0 +1,3 @@
+https://machinelearningmastery.com/start-here/#timeseries
+
+https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795#latest-567361
